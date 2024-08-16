@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Kelvinvida99" target="blank">
 Kelvin Vidal</a></h1>
-<h3 align="center">Soy un desarrollador Full Stack apasionado por el mundo web &#127470;&#127475</h3>
+<h3 align="center">Soy un desarrollador Full Stack apasionado por el mundo web &#127465;&#127476;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kelvividal" target="blank"><img src="https://twitter.com/kelvividal" alt="x" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/kelvividal" target="blank"><img src="https://twitter.com/kelvividal" alt="x" /></a> </p> -->
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">

@@ -41,6 +41,6 @@ Kelvin Vidal</a></h1>
 
 ---
 
-Repositorio: [Kelvin Vidal](https://github.com/Kelvinvida99?tab=repositories)
+Repositorios: [Kelvin Vidal](https://github.com/Kelvinvida99?tab=repositories)
 
 Last Edited on: 08/15/2022

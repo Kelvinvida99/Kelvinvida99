@@ -22,7 +22,7 @@ Kelvin Vidal</a></h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodojs,express,nestjs,docker" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,nestjs,docker" />
   </a>
 </p>
 

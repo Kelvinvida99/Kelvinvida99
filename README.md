@@ -22,9 +22,11 @@ Kelvin Vidal</a></h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodo,express,nestjs,typeorm,docker" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodojs,express,nestjs,docker" />
   </a>
 </p>
+
+---
 
 ### Social Media
 
@@ -37,6 +39,6 @@ Kelvin Vidal</a></h1>
 
 ---
 
-Credit: [Kelvin Vidal](https://github.com/Kelvinvida99?tab=repositories)
+Repositorio: [Kelvin Vidal](https://github.com/Kelvinvida99?tab=repositories)
 
 Last Edited on: 08/15/2022

@@ -6,9 +6,6 @@ Kelvin Vidal</a></h1>
 
 <!-- <p align="left"> <a href="https://twitter.com/kelvividal" target="blank"><img src="https://twitter.com/kelvividal" alt="x" /></a> </p> -->
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 👨‍💻 Desarrollador Full Stack | Especialidad en Backend
 🚀 APIs para eCommerce | Mejora de Procesos y UX
